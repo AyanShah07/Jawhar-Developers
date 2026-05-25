@@ -108,7 +108,7 @@ export default function AboutSection() {
               className="text-5xl lg:text-6xl font-bold leading-none mb-8"
               style={{ fontFamily: "var(--font-syne)", fontWeight: 800, letterSpacing: "-0.03em" }}
             >
-              We Don't Just
+              We Don&apos;t Just
               <br />
               Build — We
               <br />

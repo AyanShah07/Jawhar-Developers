@@ -92,7 +92,7 @@ export default function TechSection() {
             transition={{ delay: 0.3 }}
           >
             <p className="text-base text-offwhite-DEFAULT/50 leading-relaxed mb-8" style={{ fontFamily: "var(--font-dm-sans)" }}>
-              APEX has invested $48M in proprietary construction technology — from AI-powered project analytics to a fleet of autonomous survey drones. We don't adopt technology for show; we integrate it where it delivers measurable results.
+              APEX has invested $48M in proprietary construction technology — from AI-powered project analytics to a fleet of autonomous survey drones. We don&apos;t adopt technology for show; we integrate it where it delivers measurable results.
             </p>
 
             {/* Dashboard mini-preview */}

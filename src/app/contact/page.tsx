@@ -19,12 +19,12 @@ export default function ContactPage() {
     <div className="bg-[#0F1115] min-h-screen pt-20">
       {/* Header */}
       <section className="pt-24 pb-16 max-w-[1440px] mx-auto px-6 lg:px-12">
-        <p className="text-xs tracking-[0.3em] uppercase text-orange-DEFAULT mb-4" style={{ fontFamily: "var(--font-dm-mono)" }}>Let's Talk</p>
+        <p className="text-xs tracking-[0.3em] uppercase text-orange-DEFAULT mb-4" style={{ fontFamily: "var(--font-dm-mono)" }}>Let&apos;s Talk</p>
         <h1 className="text-6xl lg:text-9xl font-bold leading-none mb-6" style={{ fontFamily: "var(--font-syne)", fontWeight: 800, letterSpacing: "-0.04em" }}>
           Contact<br /><span className="text-gradient-orange">Us.</span>
         </h1>
         <p className="text-base text-offwhite-DEFAULT/50 max-w-lg" style={{ fontFamily: "var(--font-dm-sans)" }}>
-          Whether you have a project in mind or just want to explore what's possible — we'd love to hear from you.
+          Whether you have a project in mind or just want to explore what&apos;s possible — we&apos;d love to hear from you.
         </p>
       </section>
 

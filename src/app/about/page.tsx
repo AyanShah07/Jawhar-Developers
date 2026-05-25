@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowUpRight, Users, Award, Globe, TrendingUp } from "lucide-react";
+import { ArrowUpRight, Award, Globe, TrendingUp } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "About APEX Construction — 27 Years of Building Excellence",
@@ -161,7 +161,7 @@ export default function AboutPage() {
             Ready to Build with <span className="text-gradient-orange">APEX?</span>
           </h2>
           <p className="text-offwhite-DEFAULT/50 mb-8" style={{ fontFamily: "var(--font-dm-sans)" }}>
-            Let's start a conversation about your next landmark project.
+            Let&apos;s start a conversation about your next landmark project.
           </p>
           <Link href="/contact" className="inline-flex items-center gap-2 btn-orange-glow px-8 py-4 rounded-full text-base font-bold" style={{ fontFamily: "var(--font-syne)" }}>
             Get in Touch <ArrowUpRight size={18} />

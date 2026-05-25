@@ -40,7 +40,7 @@ export default function CareersPage() {
               FUTURE.
             </h1>
             <p className="text-base text-offwhite-DEFAULT/50 leading-relaxed mb-8 max-w-md" style={{ fontFamily: "var(--font-dm-sans)" }}>
-              APEX is where the world's best construction professionals come to do the most ambitious work of their careers. 12,000+ team members. 42 cities. Zero limits.
+               APEX is where the world&apos;s best construction professionals come to do the most ambitious work of their careers. 12,000+ team members. 42 cities. Zero limits.
             </p>
             <div className="flex gap-4">
               <a href="#openings" className="flex items-center gap-2 btn-orange-glow px-7 py-3.5 rounded-full text-sm font-bold" style={{ fontFamily: "var(--font-syne)" }}>
